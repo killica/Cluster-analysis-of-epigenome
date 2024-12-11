@@ -36,6 +36,10 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Data files
+MANIFEST.txt
+OV.methylation__humanmethylation450__jhu_usc_edu__Level_3within_bioassay_data_set_function__data.data.txt
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
