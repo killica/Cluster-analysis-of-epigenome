@@ -1,4 +1,4 @@
-# Cluster-analysis-of-epigenome
+# Cluster analysis of epigenome
 
 ## Project Description
 
@@ -12,7 +12,7 @@ The goal is to discover potentially significant methylation patterns that can po
 
 ## Technologies and Libraries
 
-The analysis is implemented in Python (version ≥ 3.9) within the Jupyter Notebook environment.
+The analysis is implemented in Python (version ≥ 3.10) within the Jupyter Notebook environment.
 
 Required libraries: numpy, pandas, scikit-learn, scipy, matplotlib, seaborn, kneed, collections, mpl_toolkits
 
